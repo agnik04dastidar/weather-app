@@ -1,0 +1,18 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <g clip-path="url(#clip0)">
+    <!-- Cloud -->
+    <circle cx="50" cy="50" r="20" fill="#4FC3F7"/>
+    <circle cx="35" cy="55" r="15" fill="#4FC3F7"/>
+    <circle cx="65" cy="55" r="15" fill="#4FC3F7"/>
+    <circle cx="40" cy="65" r="12" fill="#4FC3F7"/>
+    <circle cx="60" cy="65" r="12" fill="#4FC3F7"/>
+    <!-- Drizzle drops -->
+    <path d="M42 80 Q42 88 40 88 Q38 88 38 80 Q38 75 40 75 Q42 75 42 80Z" fill="#0288D1"/>
+    <path d="M58 80 Q58 88 56 88 Q54 88 54 80 Q54 75 56 75 Q58 75 58 80Z" fill="#0288D1"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+</svg>

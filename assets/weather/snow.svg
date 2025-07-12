@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <g clip-path="url(#clip0)">
+    <!-- Cloud -->
+    <circle cx="50" cy="50" r="20" fill="#B3E5FC"/>
+    <circle cx="35" cy="55" r="15" fill="#B3E5FC"/>
+    <circle cx="65" cy="55" r="15" fill="#B3E5FC"/>
+    <circle cx="40" cy="65" r="12" fill="#B3E5FC"/>
+    <circle cx="60" cy="65" r="12" fill="#B3E5FC"/>
+    <!-- Snowflake 1 -->
+    <path d="M40 80 L40 90 M35 85 H45 M36 82 L44 88 M36 88 L44 82" stroke="#00ACC1" stroke-width="2"/>
+    <!-- Snowflake 2 -->
+    <path d="M60 80 L60 90 M55 85 H65 M56 82 L64 88 M56 88 L64 82" stroke="#00ACC1" stroke-width="2"/>
+  </g>
+  <defs>
+    <clipPath id="clip0">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+</svg>
